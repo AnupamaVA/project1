@@ -1,3 +1,1 @@
 Hello World
-AdChanged secondded line
-One more line
